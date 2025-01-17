@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Polymerphism\bin\Debug\net8.0\Polymerphism.exe
+C:\Users\Admin\source\repos\Polymerphism\bin\Debug\net8.0\Polymerphism.deps.json
+C:\Users\Admin\source\repos\Polymerphism\bin\Debug\net8.0\Polymerphism.runtimeconfig.json
+C:\Users\Admin\source\repos\Polymerphism\bin\Debug\net8.0\Polymerphism.dll
+C:\Users\Admin\source\repos\Polymerphism\bin\Debug\net8.0\Polymerphism.pdb
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.dll
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\refint\Polymerphism.dll
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.pdb
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\Polymerphism.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Polymerphism\obj\Debug\net8.0\ref\Polymerphism.dll

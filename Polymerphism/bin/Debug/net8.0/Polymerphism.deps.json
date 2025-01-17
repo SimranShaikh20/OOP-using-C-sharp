@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Polymerphism/1.0.0": {
+        "runtime": {
+          "Polymerphism.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polymerphism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
