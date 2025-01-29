@@ -24,6 +24,11 @@ namespace DelegateExample
                 MathOperation op2 = SimpleDelegat.Sub;
                 Console.WriteLine("Subtraction: " + op2(16, 8));
             }
+            else if (choice == 2) {
+                Console.WriteLine("Hello, Anonymous Delegates Example!");
+                Showdata message = AnonymousClass.GetMessageHandlers();
+                            message("Simran");
+            }
         }
     }
 }

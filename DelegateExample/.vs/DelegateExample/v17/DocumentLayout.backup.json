@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F346E500-0680-4B30-A725-BE3A78879518}|DelegateExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F346E500-0680-4B30-A725-BE3A78879518}|DelegateExample.csproj|c:\\users\\admin\\source\\repos\\delegateexample\\anonymousclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F346E500-0680-4B30-A725-BE3A78879518}|DelegateExample.csproj|solutionrelative:anonymousclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F346E500-0680-4B30-A725-BE3A78879518}|DelegateExample.csproj|c:\\users\\admin\\source\\repos\\delegateexample\\simpledeleget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F346E500-0680-4B30-A725-BE3A78879518}|DelegateExample.csproj|solutionrelative:simpledeleget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,16 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AnonymousClass.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\AnonymousClass.cs",
+              "RelativeDocumentMoniker": "AnonymousClass.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\AnonymousClass.cs*",
+              "RelativeToolTip": "AnonymousClass.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:14:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "SimpleDeleget.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\SimpleDeleget.cs",
               "RelativeDocumentMoniker": "SimpleDeleget.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\SimpleDeleget.cs*",
-              "RelativeToolTip": "SimpleDeleget.cs*",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\SimpleDeleget.cs",
+              "RelativeToolTip": "SimpleDeleget.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T23:48:36.752Z",
@@ -39,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\DelegateExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T23:48:04.359Z",
               "EditorCaption": ""
