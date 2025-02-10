@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\CarDetailsProject\bin\Debug\net8.0\CarDetailsProject.exe
+C:\Users\Admin\source\repos\CarDetailsProject\bin\Debug\net8.0\CarDetailsProject.deps.json
+C:\Users\Admin\source\repos\CarDetailsProject\bin\Debug\net8.0\CarDetailsProject.runtimeconfig.json
+C:\Users\Admin\source\repos\CarDetailsProject\bin\Debug\net8.0\CarDetailsProject.dll
+C:\Users\Admin\source\repos\CarDetailsProject\bin\Debug\net8.0\CarDetailsProject.pdb
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.dll
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\refint\CarDetailsProject.dll
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.pdb
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\CarDetailsProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\CarDetailsProject\obj\Debug\net8.0\ref\CarDetailsProject.dll
